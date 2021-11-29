@@ -68,3 +68,21 @@ asin(0.8660254) # arcoseno en radianes
 asin(0.8660254) * 180/pi # arcoseno en grados
 
 asin(5) #Error, ya que arcoseno(x) x está entre -1 y 1
+
+print(sqrt(2),10)
+
+print(sqrt(2),3)
+
+floor(sqrt(2))
+
+ceiling(sqrt(2))
+
+trunc(sqrt(2))
+
+sqrt(2)^2-2
+
+print(2^50,15)  
+
+print(2^50,2)  
+
+trunc(-3.45)
